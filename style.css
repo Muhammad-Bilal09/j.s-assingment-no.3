@@ -1,0 +1,102 @@
+.heading{
+    text-align: center;
+}
+.navbar{
+    margin-left: 70%;
+    text-align: right;
+    /* text-align: start; */
+    border: 0px;
+    border-radius: 4px;
+}
+.top{
+    display: flex;
+    background-color: rgba(2, 2, 31, 0.959);
+    color: white;
+    padding: 1px;
+}
+.input{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: left;
+    /* margin-left: 10px; */
+}
+input text{
+    padding: 50px;
+}
+.color{
+    background-color: rgba(2, 2, 31, 0.959);
+    /* width: 50%; */
+    /* padding-top: 50px; */
+    /* padding-bottom: 50px; */
+    padding: 30px;
+    /* padding-right: 20px; */
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    float: right;
+}
+.button{
+    border:1px solid black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px ;
+    float: left;
+    /* margin-right: 20%; */
+}
+.button button{
+    margin-bottom: 10px;
+    border: 0px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+#output{
+    border:1px solid black;
+    height: 200px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5px ;
+    padding: 10pxs;
+}
+footer{
+    text-align: center;
+    background-color: rgba(2, 2, 31, 0.959);
+    color: white;
+    margin-top: 24%;
+}
+.containers{
+    display: flex;
+}
+.container-fluid{
+display: flex;
+}
+.b1{
+    margin-left: 150px;
+    display: block;
+    text-align: center;
+}
+.b2{
+    display: block;
+    text-align: center;
+}
+.b3{
+    display: block;
+}
+.b4{
+    display: block;
+    text-align: center;
+    float: right;
+}
